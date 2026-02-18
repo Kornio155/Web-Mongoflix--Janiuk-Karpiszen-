@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "imie": "Steven",
+    "nazwisko": "Spielberg"
+  },
+  {
+    "id": 2,
+    "imie": "Joe",
+    "nazwisko": "Johnston"
+  },
+  {
+    "id": 3,
+    "imie": "Colin",
+    "nazwisko": "Trevorrow"
+  },
+  {
+    "id": 4,
+    "imie": "Juan Antonio",
+    "nazwisko": "Bayona"
+  },
+  {
+    "id": 5,
+    "imie": "Gareth",
+    "nazwisko": "Edwards"
+  },
+  {
+    "id": 6,
+    "imie": "George",
+    "nazwisko": "Lucas"
+  },
+  {
+    "id": 7,
+    "imie": "Irvin",
+    "nazwisko": "Kershner"
+  }
+]

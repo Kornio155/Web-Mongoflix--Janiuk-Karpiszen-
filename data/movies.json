@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "tytuł": "Jurassic Park",
+    "wejscieDoKin": 1993,
+    "gatunek": ["Sci-Fi", "Thriller"],
+    "ocena": 7.0,
+    "rezyserId": 1,
+    "aktorzy": [
+      { "imie": "Sam", "nazwisko": "Neill", "rola": "Dr. Alan Grant" },
+      { "imie": "Laura", "nazwisko": "Dern", "rola": "Dr. Ellie Sattler" },
+      { "imie": "Jeff", "nazwisko": "Goldblum", "rola": "Dr. Ian Malcolm" },
+      { "imie": "Richard", "nazwisko": "Attenborough", "rola": "John Hammond" },
+      { "imie": "Joseph", "nazwisko": "Mazzello", "rola": "Tim Murphy" },
+      { "imie": "Ariana", "nazwisko": "Richards", "rola": "Lex Murphy" },
+      { "imie": "Samuel L.", "nazwisko": "Jackson", "rola": "Ray Arnold" },
+      { "imie": "Wayne", "nazwisko": "Knight", "rola": "Dennis Nedry" }
+    ],
+    "czyPremium": "nie"
+  },
+
+  {
+    "id": 2,
+    "tytuł": "Jurassic Park: The lost world",
+    "wejscieDoKin": 1997,
+    "gatunek": ["Przygodowy", "Akcji"],
+    "ocena": 6.9,
+    "rezyserId": 1,
+    "aktorzy": [
+      { "imie": "Jeff", "nazwisko": "Goldblum", "rola": "Dr. Ian Malcolm" },
+      { "imie": "Julianne", "nazwisko": "Moore", "rola": "Dr. Sarah Harding" },
+      { "imie": "Pete", "nazwisko": "Postlethwaite", "rola": "Roland Tembo" },
+      { "imie": "Vince", "nazwisko": "Vaughn", "rola": "Nick Van Owen" },
+      { "imie": "Richard", "nazwisko": "Schiff", "rola": "Eddie Carr" },
+      { "imie": "Arliss", "nazwisko": "Howard", "rola": "Peter Ludlow" }
+    ],
+    "czyPremium": "tak"
+  },
+  {
+    "id": 3,
+    "tytuł": "Jurassic Park III",
+    "wejscieDoKin": 2001,
+    "gatunek": ["Sci-Fi", "Przygodowy", "Akcja"],
+    "ocena": 6.9,
+    "rezyserId": 2,
+    "aktorzy": [
+      { "imie": "Sam", "nazwisko": "Neill", "rola": "Dr. Alan Grant" },
+      { "imie": "William H.", "nazwisko": "Macy", "rola": "Paul Kirby" },
+      { "imie": "Téa", "nazwisko": "Leoni", "rola": "Amanda Kirby" },
+      { "imie": "Alessandro", "nazwisko": "Nivola", "rola": "Billy Brennan" },
+      { "imie": "Trevor", "nazwisko": "Morgan", "rola": "Erik Kirby" }
+    ],
+    "czyPremium": "nie"
+  },
+  {
+    "id": 3,
+    "tytuł": "Jurassic World",
+    "wejscieDoKin": 2015,
+    "gatunek": ["Sci-Fi", "Przygodowy", "Akcja"],
+    "ocena": 6.6,
+    "rezyserId": 3,
+    "aktorzy": [
+      { "imie": "Chris", "nazwisko": "Pratt", "rola": "Owen Grady" },
+      { "imie": "Bryce Dallas", "nazwisko": "Howard", "rola": "Claire Dearing" },
+      { "imie": "Ty", "nazwisko": "Simpkins", "rola": "Gray Mitchell" },
+      { "imie": "Nick", "nazwisko": "Robinson", "rola": "Zach Mitchell" },
+      { "imie": "Irrfan", "nazwisko": "Khan", "rola": "Simon Masrani" },
+      { "imie": "Vincent", "nazwisko": "D'Onofrio", "rola": "Vic Hoskins" }
+    ],
+    "czyPremium": "nie"
+  },
+  {
+    "id": 4,
+    "tytuł": "Jurassic World",
+    "wejscieDoKin": 2015,
+    "gatunek": ["Sci-Fi", "Przygodowy"],
+    "ocena": 6.6,
+    "rezyserId": 3,
+    "aktorzy": [
+      { "imie": "Chris", "nazwisko": "Pratt", "rola": "Owen Grady" },
+      { "imie": "Bryce Dallas", "nazwisko": "Howard", "rola": "Claire Dearing" },
+      { "imie": "Ty", "nazwisko": "Simpkins", "rola": "Gray Mitchell" },
+      { "imie": "Nick", "nazwisko": "Robinson", "rola": "Zach Mitchell" },
+      { "imie": "Irrfan", "nazwisko": "Khan", "rola": "Simon Masrani" },
+      { "imie": "Vincent", "nazwisko": "D'Onofrio", "rola": "Vic Hoskins" }
+    ],
+    "czyPremium": "tak"
+  },
+  {
+    "id": 5,
+    "tytuł": "Jurassic World: Fallen Kingdom",
+    "wejscieDoKin": 2018,
+    "gatunek": ["Sci-Fi", "Przygodowy"],
+    "ocena": 6.0,
+    "rezyserId": 4,
+    "aktorzy": [
+      { "imie": "Chris", "nazwisko": "Pratt", "rola": "Owen Grady" },
+      { "imie": "Bryce Dallas", "nazwisko": "Howard", "rola": "Claire Dearing" },
+      { "imie": "Rafe", "nazwisko": "Spall", "rola": "Eli Mills" },
+      { "imie": "Justice", "nazwisko": "Smith", "rola": "Franklin Webb" },
+      { "imie": "Daniella", "nazwisko": "Pineda", "rola": "Dr. Zia Rodriguez" },
+      { "imie": "James", "nazwisko": "Cromwell", "rola": "Benjamin Lockwood" }
+    ],
+    "czyPremium": "tak"
+  },
+  {
+    "id": 6,
+    "tytuł": "Jurassic World: Dominion",
+    "wejscieDoKin": 2022,
+    "gatunek": ["Sci-Fi", "Przygodowy"],
+    "ocena": 5.7,
+    "rezyserId": 3,
+    "aktorzy": [
+      { "imie": "Chris", "nazwisko": "Pratt", "rola": "Owen Grady" },
+      { "imie": "Bryce Dallas", "nazwisko": "Howard", "rola": "Claire Dearing" },
+      { "imie": "Laura", "nazwisko": "Dern", "rola": "Dr. Ellie Sattler" },
+      { "imie": "Sam", "nazwisko": "Neill", "rola": "Dr. Alan Grant" },
+      { "imie": "Jeff", "nazwisko": "Goldblum", "rola": "Dr. Ian Malcolm" },
+      { "imie": "DeWanda", "nazwisko": "Wise", "rola": "Kayla Watts" }
+    ],
+    "czyPremium": "nie"
+  },
+  {
+    "id": 7,
+    "tytuł": "Jurassic World: Rebirth",
+    "wejscieDoKin": 2025,
+    "gatunek": ["Sci-Fi", "Przygodowy", "Akcja", "Thriller"],
+    "ocena": 5.7,
+    "rezyserId": 5,
+    "aktorzy": [
+      { "imie": "Scarlett", "nazwisko": "Johansson", "rola": "Zora Bennett" },
+      { "imie": "Mahershala", "nazwisko": "Ali", "rola": "Duncan Kincaid" },
+      { "imie": "Jonathan", "nazwisko": "Bailey", "rola": "Dr. Henry Loomis" },
+      { "imie": "Rupert", "nazwisko": "Friend", "rola": "Martin Krebs" },
+      { "imie": "Manuel", "nazwisko": "Garcia-Rulfo", "rola": "Reuben Delgado" },
+      { "imie": "Sam", "nazwisko": "Neill", "rola": "Dr. Alan Grant" },
+      { "imie": "Laura", "nazwisko": "Dern", "rola": "Dr. Ellie Sattler" },
+      { "imie": "Chris", "nazwisko": "Pratt", "rola": "Owen Grady" },
+      { "imie": "Omar", "nazwisko": "Sy", "rola": "Barry Sembène" },
+      { "imie": "Bryce Dallas", "nazwisko": "Howard", "rola": "Claire Dearing" }
+    ],
+    "czyPremium": "nie"
+  },
+  {
+    "id": 8,
+    "tytuł": "Star Wars: Nowa nadzieja",
+    "wejscieDoKin": 1977,
+    "gatunek": ["Sci-Fi"],
+    "ocena": 7.9,
+    "rezyserId": 6,
+    "aktorzy": [
+      { "imie": "Mark", "nazwisko": "Hamill", "rola": "Luke Skywalker" },
+      { "imie": "Harrison", "nazwisko": "Ford", "rola": "Han Solo" },
+      { "imie": "Carrie", "nazwisko": "Fisher", "rola": "Leia Organa" },
+      { "imie": "Alec", "nazwisko": "Guinness", "rola": "Obi-Wan Kenobi" },
+      { "imie": "David", "nazwisko": "Prowse", "rola": "Darth Vader" }
+    ],
+    "czyPremium": "tak"
+  },
+  {
+    "id": 9,
+    "tytuł": "Star Wars: Imperium kontratakuje",
+    "wejscieDoKin": 1980,
+    "gatunek": ["Sci-Fi"],
+    "ocena": 8.1,
+    "rezyserId": 7,
+    "aktorzy": [
+      { "imie": "Mark", "nazwisko": "Hamill", "rola": "Luke Skywalker" },
+      { "imie": "Harrison", "nazwisko": "Ford", "rola": "Han Solo" },
+      { "imie": "Carrie", "nazwisko": "Fisher", "rola": "Leia Organa" },
+      { "imie": "Billy Dee", "nazwisko": "Williams", "rola": "Lando Calrissian" },
+      { "imie": "James", "nazwisko": "Earl Jones", "rola": "Głos Dartha Vadera" }
+    ],
+    "czyPremium": "nie"
+  }
+]
