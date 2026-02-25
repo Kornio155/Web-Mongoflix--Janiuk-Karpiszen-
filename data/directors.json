@@ -50,8 +50,8 @@
     "nazwisko": "Hooper"
   },
   {
-    "": 11,
-    "": "Tobe",
-    "": "Radford"
+    "id": 11,
+    "imie": "Tobe",
+    "nazwisko": "Radford"
   }
 ]
