@@ -16,6 +16,11 @@
       { "imie": "Samuel L.", "nazwisko": "Jackson", "rola": "Ray Arnold" },
       { "imie": "Wayne", "nazwisko": "Knight", "rola": "Dennis Nedry" }
     ],
+    "opinieId": [
+      {"idOpini": 1},
+      {"idOpini": 2},
+      {"idOpini": 3}
+    ],
     "czyPremium": "nie"
   },
 
@@ -34,6 +39,13 @@
       { "imie": "Richard", "nazwisko": "Schiff", "rola": "Eddie Carr" },
       { "imie": "Arliss", "nazwisko": "Howard", "rola": "Peter Ludlow" }
     ],
+    "opinieId": [
+
+      {"idOpini": 4},
+      {"idOpini": 5},
+      {"idOpini": 6}
+
+    ],
     "czyPremium": "tak"
   },
   {
@@ -50,10 +62,17 @@
       { "imie": "Alessandro", "nazwisko": "Nivola", "rola": "Billy Brennan" },
       { "imie": "Trevor", "nazwisko": "Morgan", "rola": "Erik Kirby" }
     ],
+    "opinieId": [
+
+      {"idOpini": 7},
+      {"idOpini": 8},
+      {"idOpini": 9}
+
+    ],
     "czyPremium": "nie"
   },
   {
-    "id": 3,
+    "id": 4,
     "tytuł": "Jurassic World",
     "wejscieDoKin": 2015,
     "gatunek": ["Sci-Fi", "Przygodowy", "Akcja"],
@@ -67,10 +86,17 @@
       { "imie": "Irrfan", "nazwisko": "Khan", "rola": "Simon Masrani" },
       { "imie": "Vincent", "nazwisko": "D'Onofrio", "rola": "Vic Hoskins" }
     ],
+    "opinieId": [
+
+      {"idOpini": 10},
+      {"idOpini": 11},
+      {"idOpini": 12}
+
+    ],
     "czyPremium": "nie"
   },
   {
-    "id": 4,
+    "id": 5,
     "tytuł": "Jurassic World",
     "wejscieDoKin": 2015,
     "gatunek": ["Sci-Fi", "Przygodowy"],
@@ -84,10 +110,17 @@
       { "imie": "Irrfan", "nazwisko": "Khan", "rola": "Simon Masrani" },
       { "imie": "Vincent", "nazwisko": "D'Onofrio", "rola": "Vic Hoskins" }
     ],
+    "opinieId": [
+
+      {"idOpini": 13},
+      {"idOpini": 14},
+      {"idOpini": 15}
+
+    ],
     "czyPremium": "tak"
   },
   {
-    "id": 5,
+    "id": 6,
     "tytuł": "Jurassic World: Fallen Kingdom",
     "wejscieDoKin": 2018,
     "gatunek": ["Sci-Fi", "Przygodowy"],
@@ -101,10 +134,17 @@
       { "imie": "Daniella", "nazwisko": "Pineda", "rola": "Dr. Zia Rodriguez" },
       { "imie": "James", "nazwisko": "Cromwell", "rola": "Benjamin Lockwood" }
     ],
+    "opinieId": [
+
+      {"idOpini": 16},
+      {"idOpini": 17},
+      {"idOpini": 18}
+
+    ],
     "czyPremium": "tak"
   },
   {
-    "id": 6,
+    "id": 7,
     "tytuł": "Jurassic World: Dominion",
     "wejscieDoKin": 2022,
     "gatunek": ["Sci-Fi", "Przygodowy"],
@@ -118,10 +158,17 @@
       { "imie": "Jeff", "nazwisko": "Goldblum", "rola": "Dr. Ian Malcolm" },
       { "imie": "DeWanda", "nazwisko": "Wise", "rola": "Kayla Watts" }
     ],
+    "opinieId": [
+
+      {"idOpini": 19},
+      {"idOpini": 20},
+      {"idOpini": 21}
+
+    ],
     "czyPremium": "nie"
   },
   {
-    "id": 7,
+    "id": 8,
     "tytuł": "Jurassic World: Rebirth",
     "wejscieDoKin": 2025,
     "gatunek": ["Sci-Fi", "Przygodowy", "Akcja", "Thriller"],
@@ -139,10 +186,17 @@
       { "imie": "Omar", "nazwisko": "Sy", "rola": "Barry Sembène" },
       { "imie": "Bryce Dallas", "nazwisko": "Howard", "rola": "Claire Dearing" }
     ],
+    "opinieId": [
+
+      {"idOpini": 22},
+      {"idOpini": 23},
+      {"idOpini": 24}
+
+    ],
     "czyPremium": "nie"
   },
   {
-    "id": 8,
+    "id": 9,
     "tytuł": "Star Wars: Nowa nadzieja",
     "wejscieDoKin": 1977,
     "gatunek": ["Sci-Fi"],
@@ -155,10 +209,17 @@
       { "imie": "Alec", "nazwisko": "Guinness", "rola": "Obi-Wan Kenobi" },
       { "imie": "David", "nazwisko": "Prowse", "rola": "Darth Vader" }
     ],
+    "opinieId": [
+
+      {"idOpini": 25},
+      {"idOpini": 26},
+      {"idOpini": 27}
+
+    ],
     "czyPremium": "tak"
   },
   {
-    "id": 9,
+    "id": 10,
     "tytuł": "Star Wars: Imperium kontratakuje",
     "wejscieDoKin": 1980,
     "gatunek": ["Sci-Fi"],
@@ -170,6 +231,102 @@
       { "imie": "Carrie", "nazwisko": "Fisher", "rola": "Leia Organa" },
       { "imie": "Billy Dee", "nazwisko": "Williams", "rola": "Lando Calrissian" },
       { "imie": "James", "nazwisko": "Earl Jones", "rola": "Głos Dartha Vadera" }
+    ],
+    "opinieId": [
+
+      {"idOpini": 28},
+      {"idOpini": 29},
+      {"idOpini": 30}
+
+    ],
+    "czyPremium": "nie"
+  },
+  {
+    "id": 11,
+    "tytuł": "Jestem legendą",
+    "wejscieDoKin": 2007,
+    "gatunek": ["Sci-Fi"],
+    "ocena": 7.5,
+    "rezyserId": 8,
+    "aktorzy": [
+      { "imie": "Will", "nazwisko": "Smith", "rola": "Dr. Robert Neville" },
+      { "imie": "Alice", "nazwisko": "Braga", "rola": "Anna" },
+      { "imie": "Charlie", "nazwisko": "Tahan", "rola": "Ethan" },
+      { "imie": "Dash", "nazwisko": "Mihok", "rola": "Alpha Male" }
+    ],"opinieId": [
+
+      {"idOpini": 31},
+      {"idOpini": 32},
+      {"idOpini": 33}
+
+  ],
+
+    "czyPremium": "nie"
+  },
+  {
+    "id": 12,
+    "tytuł": "K-popowe łowczynie demonów",
+    "wejscieDoKin": 2025,
+    "gatunek": ["Urban fantasy"],
+    "ocena": 7.3,
+    "rezyserId": 9,
+    "aktorzy": [
+      { "imie": "Arden", "nazwisko": "Cho", "rola": "Rumi (głos)" },
+      { "imie": "Ahn", "nazwisko": "Hyo-seop", "rola": "Jinu (głos)" },
+      { "imie": "May", "nazwisko": "Hong", "rola": "Mira (głos)" },
+      { "imie": "Ji-young", "nazwisko": "Yoo", "rola": "Zoey (głos)" }
+    ],
+    "opinieId": [
+
+      {"idOpini": 34},
+      {"idOpini": 35},
+      {"idOpini": 36}
+
+    ],
+    "czyPremium": "tak"
+  },
+  {
+    "id": 13,
+    "tytuł": "Teksańska masakra piłą mechaniczną",
+    "wejscieDoKin": 1974,
+    "gatunek": ["Horror"],
+    "ocena": 6.6,
+    "rezyserId": 10,
+    "aktorzy": [
+      { "imie": "Marilyn", "nazwisko": "Burns", "rola": "Sally Hardesty" },
+      { "imie": "Gunnar", "nazwisko": "Hansen", "rola": "Leatherface" },
+      { "imie": "Allen", "nazwisko": "Danziger", "rola": "Jerry" },
+      { "imie": "Paul A.", "nazwisko": "Partain", "rola": "Franklin Hardesty" },
+      { "imie": "Jim", "nazwisko": "Siedow", "rola": "The Cook" }
+    ],
+    "opinieId": [
+
+      {"idOpini": 37},
+      {"idOpini": 38},
+      {"idOpini": 39}
+
+    ],
+    "czyPremium": "tak"
+  },
+  {
+    "id": 14,
+    "tytuł": "1984",
+    "wejscieDoKin": 1984,
+    "gatunek": [""],
+    "ocena": 7.0,
+    "rezyserId": 11,
+    "aktorzy": [
+      { "imie": "John", "nazwisko": "Hurt", "rola": "Winston Smith" },
+      { "imie": "Suzanna", "nazwisko": "Hamilton", "rola": "Julia" },
+      { "imie": "Richard", "nazwisko": "Burton", "rola": "O'Brien" },
+      { "imie": "Cyril", "nazwisko": "Cusack", "rola": "Charrington" }
+    ],
+    "opinieId": [
+
+      {"idOpini": 40},
+      {"idOpini": 41},
+      {"idOpini": 42}
+
     ],
     "czyPremium": "nie"
   }
