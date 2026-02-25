@@ -45,5 +45,3 @@ query = db.movies.find(
     {aktorzy: 1, _id: 0},
 )
 printjson(query);
-const querry = db.movies.find({ gatunek: "Akcja" }, { tytuł: 1, gatunek: 1, ocena: 1, czyPremium: 1, _id: 0 }).toArray();
-printjson(querry);
