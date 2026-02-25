@@ -22,7 +22,7 @@ Twoim zadaniem jest zaprojektowanie, wdrożenie i przetestowanie struktury bazy 
 ---
 
 
-## 📂 Twoje Zadania
+## 📂 Zadania
 
 ### 1. 📐 Modelowanie (`docs/schema.md`)
 W folderze `docs` opisz strukturę dokumentu JSON.
@@ -48,16 +48,20 @@ Napisz skrypt z zapytaniami agregującymi (`db.collection.aggregate([...])`).
 
 ## ⚙️ Instrukcja Uruchomienia (Setup)
 
-**Nie klonuj tego repozytorium bezpośrednio!** Nie będziesz mógł zapisać swojej pracy.
-Aby rozpocząć projekt, wykonaj te kroki:
+Aby uruchomić projekt, wykonaj te kroki:
 
-1.  Spójrz w prawy górny róg tej strony na GitHubie.
-2.  Kliknij zielony przycisk **Use this template** -> **Create a new repository**.
-3.  **Nazwij swoje repozytorium:** `mongoflix-nazwisko1-nazwisko2` (np. `mongoflix-kowalski-nowak`).
-4.  Ustaw widoczność na **Public**.
-5.  Dopiero teraz **sklonuj SWOJE nowe repozytorium** na komputer:
+1.  Sklonuj repozytorium i otwórz projekt
+2.  W terminalu uruchom MongoDB:
     ```bash
-    git clone [https://github.com/TWOJ-LOGIN/mongoflix-nazwisko1-nazwisko2.git](https://github.com/TWOJ-LOGIN/mongoflix-nazwisko1-nazwisko2.git)
+    mongosh
+    ```
+3.  W terminalu w domyślnej ścieżce projektu zseeduj dane:
+    ```bash
+    mongosh scripts/seed.js
+    ```
+4.  Aby uruchomić skrypt z zapytaniami użyj:
+    ```bash
+    mongosh queries/analysis.js
     ```
 
 ---
